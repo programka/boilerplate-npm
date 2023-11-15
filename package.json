@@ -1,6 +1,7 @@
 {
   "author": "Ekaterina Esina",
   "description": "A project that is used for education purposes: to learn backend development and apis",
+  "keywords": ["freecodecamp", "api", "backend", "development"],
   "name": "fcc-learn-npm-package-json",
   "dependencies": {
     "express": "^4.14.0"
