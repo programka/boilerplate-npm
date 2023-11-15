@@ -2,9 +2,12 @@
   "author": "Ekaterina Esina",
   "description": "A project that is used for education purposes: to learn backend development and apis",
   "keywords": ["freecodecamp", "api", "backend", "development"],
+  "license": "MIT",
+  "version": "1.0",
   "name": "fcc-learn-npm-package-json",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "4.14.0",
+    "@freecodecamp/example": "~1.2.13"
   },
   "main": "server.js",
   "scripts": {
